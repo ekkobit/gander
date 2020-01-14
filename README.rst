@@ -7,6 +7,7 @@ Technical indicators and plotting for stock market analysis
 ***********************************************************
 
 Authors:
+
 * Ole Olaussen: ole.olaussen@ekkobit.com
 * Xuan Ling: xuan.ling@ekkobit.com
 
