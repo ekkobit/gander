@@ -36,7 +36,7 @@ Let's say we have a Pandas DataFrame of a stocks data and we want to make a
 chart of a subset of the data. Our DataFrame might look something
 like this:
 
-.. image:: docs/usage/df_raw.png
+.. image:: docs/source/usage/df_raw.png
   :width: 51%
 
 Adding indicators to the data set
@@ -51,7 +51,7 @@ Adding indicators to the data set
 
 This will give us something like this:
 
-.. image:: docs/usage/df_indicators.png
+.. image:: docs/source/usage/df_indicators.png
 
 To get a subset of the data and positions on the x-axis, we can do:
 
@@ -107,7 +107,7 @@ Adding plots
   gp.macds(df_plot, ax2, "fast", "signal", "macd-h")
 
 
-.. image:: docs/usage/daily_plot.png
+.. image:: docs/source/usage/daily_plot.png
 
 
 Using Matplotlib and Gander to create weekly stock charts
@@ -117,7 +117,7 @@ Let's again say we have a Pandas DataFrame of a stocks data and we want to make
 a chart of a subset of the data data. Only this time we have weekly
 data. Our DataFrame might look something like this:
 
-.. image:: docs/usage/df_raw_weekly.png
+.. image:: docs/source/usage/df_raw_weekly.png
   :width: 51%
 
 Adding indicators to the data set
@@ -132,7 +132,7 @@ Adding indicators to the data set
 
 This will give us something like this:
 
-.. image:: docs/usage/df_indicators_weekly.png
+.. image:: docs/source/usage/df_indicators_weekly.png
 
 To get a subset of the data and positions on the x-axis, we can again do:
 
@@ -185,7 +185,7 @@ Adding plots
   gp.macds(df_plot, ax2, "fast", "signal", "macd-h")
 
 
-.. image:: docs/usage/weekly_plot.png
+.. image:: docs/source/usage/weekly_plot.png
 
 ==========
 Contribute
