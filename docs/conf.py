@@ -10,11 +10,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
+autodoc_mock_imports = ["matplotlib.patches", "matplotlib.collections"]
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 sys.path.insert(0, os.path.abspath('../gander/'))
-#sys.path.append(os.path.relpath('../gander/'))
+# sys.path.append(os.path.relpath('../gander/'))
 from gander import __version__, __authors__
 # import sphinx_bootstrap_theme
 

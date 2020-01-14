@@ -32,7 +32,10 @@ setuptools.setup(name='gander',
                  test_suite='nose.collector',
                  tests_require=['pytest'],
                  install_requires=[
-                        'pandas', 'numpy', 'matplotlib',
+                        'pandas',
+                        'numpy',
+                        'matplotlib.patches',
+                        'matplotlib.collections'
                         ],
                  include_package_data=True,
                  )
