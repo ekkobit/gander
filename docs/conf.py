@@ -13,8 +13,9 @@
 autodoc_mock_imports = ["matplotlib", "matplotlib.pyplot"]
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
-sys.path.append(os.path.relpath('../gander/'))
+sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('../gander/'))
+#sys.path.append(os.path.relpath('../gander/'))
 from gander import __version__, __authors__
 # import sphinx_bootstrap_theme
 
