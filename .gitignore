@@ -1,0 +1,40 @@
+# Compiled python modules.
+*.pyc
+/gander/__pycache__/
+/gander/tests/__pycache__/
+
+# Setuptools distribution folder.
+/dist/
+
+# Setuptools build folder.
+/build/
+
+# Setuptools egg-info folder.
+/gander.egg-info/
+
+# Generated docs
+/docs/build/
+
+# Pytest cache
+/.pytest_cache/
+
+# Sandbox
+testbed.py
+/gander/testbed.py
+*.ipynb
+/.ipynb_checkpoints/
+/gander/.ipynb_checkpoints/
+
+# Atom generated files
+/.cache/
+
+# Old files for inspiration
+/gander/data_tradex.py
+/gander/plotting_tradex.py
+/gander/scanner_tradex.py
+
+# temporary test files
+/gander/tests/AAL_daily.csv
+
+# Data
+/data/

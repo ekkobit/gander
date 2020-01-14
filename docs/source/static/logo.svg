@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="301.76462"
+   height="275.17322"
+   viewBox="0 0 301.76462 275.17321"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/ole/Projects/Active/gander/docs/source/static/logo.png"
+   inkscape:export-xdpi="63"
+   inkscape:export-ydpi="63">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker901"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path899"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path832"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2880"
+     inkscape:window-height="1744"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.59310827"
+     inkscape:cx="132.95898"
+     inkscape:cy="224.64318"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2844"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g932"
+     transform="translate(-455.42598,487.50144)" />
+  <g
+     id="g2844"
+     transform="translate(-455.42598,490.87351)">
+    <g
+       id="g42"
+       inkscape:export-filename="/home/ole/Projects/Active/gander/docs/source/static/logo.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63">
+      <path
+         sodipodi:nodetypes="csssccsccssccscsscccccccccc"
+         inkscape:export-filename="/home/ole/Repos/gander_project/gander/docs/_static/logo.png"
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="63.099998"
+         inkscape:export-xdpi="63.099998"
+         id="path4607"
+         d="m 593.83846,-490.8628 c 14.21799,0.4058 25.54885,12.19546 49.56054,5.43946 16.10832,-4.53229 34.70847,-1.39795 43.45899,2.99414 12.3042,6.17577 21.13061,14.4378 26.15234,24.48047 1.28861,2.57702 3.22728,7.41593 5.11524,13.16797 l 2.37304,10.23828 c -4.29396,56.84989 -7.74904,77.47131 -38.77343,109.11718 -22.97556,23.43579 -62.44061,39.13549 -69.86719,43.46485 -11.08002,-2.22545 -21.86412,-5.10846 -14.66211,-6.44336 19.06302,-10.58945 29.41451,-19.56314 34.19531,-29.64453 1.7107,-3.6074 1.99219,-4.93204 1.99219,-9.38672 0,-4.26731 -0.28746,-5.74433 -1.61914,-8.33203 -1.82455,-3.54547 -1.60957,-3.399 -8.94532,-6.13477 -15.09124,-5.6281 -24.65128,-14.98939 -25.71679,-25.18359 -1.01215,-9.68369 4.57623,-31.47392 14.03906,-54.74024 1.74869,-4.2995 3.17969,-7.98929 3.17969,-8.19921 0,-0.20991 -3.12521,0.92768 -6.94336,2.52734 -25.37072,10.62939 -41.21253,14.30937 -49.48047,11.49219 -3.80166,-1.29535 -8.98893,-5.91801 -12.18164,-10.85352 l -2.45899,-3.80273 c 2.87709,-34.66944 19.68113,-50.76528 42.28711,-59.06641 2.9298,-0.89582 5.66196,-1.2099 8.29493,-1.13477 z m 74.59961,13.68555 c -20.66169,3.3e-4 -37.41091,16.75042 -37.41016,37.41211 3.3e-4,20.66092 16.74924,37.40983 37.41016,37.41016 20.66092,-3.3e-4 37.40982,-16.74924 37.41015,-37.41016 7.5e-4,-20.66168 -16.74847,-37.41178 -37.41015,-37.41211 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.30082953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-filename="/home/ole/Repos/gander_project/gander/docs/_static/logo.png"
+         inkscape:export-ydpi="63.099998"
+         inkscape:export-xdpi="63.099998"
+         sodipodi:nodetypes="cscccsccccc"
+         inkscape:connector-curvature="0"
+         id="path4605"
+         d="m 679.79518,-216.33501 c 23.16072,-0.18401 42.30267,-0.52699 42.53766,-0.76217 0.235,-0.23518 -0.32242,-4.16079 -1.2387,-8.72357 -4.19293,-46.77665 19.8253,-49.888 30.6408,-88.58023 7.58435,-23.53296 7.90246,-45.06304 -3.13709,-79.28616 0.1278,31.53854 1.19608,72.3351 -28.73181,100.29114 -19.79045,18.48654 -62.39126,34.95787 -94.62562,26.53055 12.05503,28.32744 3.0521,29.97221 3.07457,51.16516 l 4.68488,-0.15007 c 2.57668,-0.0825 23.63454,-0.30063 46.79525,-0.48465 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-filename="/home/ole/Repos/gander_project/gander/docs/_static/logo.png"
+         inkscape:export-ydpi="63.099998"
+         inkscape:export-xdpi="63.099998"
+         sodipodi:nodetypes="sccsssscsscssssscsscscsssccsscscssscc"
+         inkscape:connector-curvature="0"
+         id="path4609"
+         d="m 505.65034,-238.07569 c 27.05905,-10.41325 40.13584,-27.35053 58.07929,-35.87323 27.54345,-12.98233 33.54736,-16.06479 41.53677,-21.32532 19.89327,-13.09852 28.24116,-26.83598 22.70764,-37.3682 -1.85431,-3.5294 -2.80328,-4.26977 -7.70054,-6.00783 -11.21168,-3.97908 -21.44916,-11.81621 -24.99004,-19.13068 -4.59818,-9.49856 -0.91127,-30.55228 10.39234,-59.3444 2.61519,-6.66129 2.90249,-8.00773 1.62726,-7.62613 -0.85178,0.25488 -5.87542,2.122 -11.16365,4.14914 -23.14747,8.87316 -35.85715,10.85787 -43.50553,6.79372 -3.75308,-1.99429 -11.25783,-9.64288 -11.35897,-11.57669 -0.0292,-0.55751 -1.64278,5.15484 -3.58583,12.69411 -5.93181,23.01618 -8.80521,28.46915 -23.80707,45.17961 -4.97153,5.53775 -11.30949,13.30863 -14.08433,17.26863 -7.10856,10.14467 -11.61374,13.91235 -24.15005,20.19661 -17.51908,8.78204 -20.22165,12.06166 -20.22165,24.53936 0,6.01687 0.40603,7.97775 2.5131,12.13692 3.39216,6.69585 7.09867,9.07486 14.13869,9.07486 7.94661,0 16.4283,-3.19327 42.37076,-15.95219 30.32032,-14.91199 36.97722,-17.3357 56.45132,-20.55324 22.13792,-3.65768 23.4314,-3.81946 23.4314,-2.93083 0,0.43711 -2.5702,2.36906 -5.71156,4.2932 -15.44383,9.45969 -24.95833,17.93116 -43.87582,39.066 -8.04882,8.99222 -17.35332,18.59474 -20.67667,21.33892 -11.83222,9.77021 -24.97948,14.34557 -35.15296,12.23357 -9.07079,-1.88309 -13.42983,-8.14768 -10.13011,-14.55843 0.93115,-1.80907 9.00517,-10.58859 17.94223,-19.51006 19.16745,-19.13396 30.69034,-29.76704 14.21602,-16.54327 -14.72988,11.82357 -36.41856,32.6557 -38.17521,38.78078 -1.19708,4.17397 0.52094,10.88366 3.80777,14.87116 6.97687,7.259 23.5687,7.80309 29.0754,5.68391 z m 32.447,-102.01633 c -1.28265,-2.0754 0.76621,-5.55511 7.81354,-13.27021 8.32902,-9.11823 14.71623,-14.26517 21.72682,-17.50788 5.08754,-2.35321 7.50269,-2.24375 7.50269,0.34003 0,1.93289 -22.76274,25.06707 -28.25758,28.71868 -4.12796,2.74326 -7.71839,3.44592 -8.78547,1.71938 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-filename="/home/ole/Repos/gander_project/gander/docs/_static/logo.png"
+         inkscape:export-ydpi="63.099998"
+         inkscape:export-xdpi="63.099998"
+         r="16.82972"
+         cy="-433.8757"
+         cx="-681.16577"
+         id="path4567"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+         transform="scale(-1,1)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.41199994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2830"
+         cx="682.53906"
+         cy="-441.11703"
+         r="3.3720655"
+         inkscape:export-filename="/home/ole/Repos/gander_project/gander/docs/_static/logo.png"
+         inkscape:export-xdpi="63"
+         inkscape:export-ydpi="63" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot29"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(455.42598,-494.24558)"><flowRegion
+         id="flowRegion31"><rect
+           id="rect33"
+           width="893.59741"
+           height="316.97418"
+           x="-377.67136"
+           y="-490.5946" /></flowRegion><flowPara
+         id="flowPara35"></flowPara></flowRoot>  </g>
+</svg>
