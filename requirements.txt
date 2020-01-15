@@ -1,6 +1,4 @@
 pandas
 numpy
 matplotlib
-matplotlib.collections
-matplotlib.patches
 pytest
