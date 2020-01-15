@@ -28,7 +28,6 @@ chart of a subset of the data. Our DataFrame might look something
 like this:
 
 .. image:: df_raw.png
-  :width: 51%
 
 Adding indicators to the data set
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -109,7 +108,6 @@ a chart of a subset of the data data. Only this time we have weekly
 data. Our DataFrame might look something like this:
 
 .. image:: df_raw_weekly.png
-  :width: 51%
 
 Adding indicators to the data set
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

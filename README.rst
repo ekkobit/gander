@@ -12,6 +12,10 @@ Authors:
 * Xuan Ling: xuan.ling@ekkobit.com
 
 
+For more complete documentation, go to Gander at
+`ReadTheDocs <https://gander.readthedocs.io>`_ 
+
+
 ============
 Installation
 ============
