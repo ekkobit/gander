@@ -75,3 +75,7 @@ todo_include_todos = True
 
 # Math
 # imgmath_image_format = 'svg'
+
+# Setting the master file (toctree)
+master_doc = 'index'
+
