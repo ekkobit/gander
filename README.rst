@@ -194,6 +194,7 @@ Adding plots
 Contribute
 ==========
 
+* Tips on contributing: https://github.com/ekkobit/gander/blob/master/CONTRIBUTING.md
 * Issue Tracker: https://github.com/ekkobit/gander/issues
 * Source Code: https://github.com/ekkobit/gander
 * Documentation: https://gander.readthedocs.io
