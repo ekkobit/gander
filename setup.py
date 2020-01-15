@@ -34,8 +34,7 @@ setuptools.setup(name='gander',
                  install_requires=[
                         'pandas',
                         'numpy',
-                        'matplotlib.patches',
-                        'matplotlib.collections'
+                        'matplotlib'
                         ],
                  include_package_data=True,
                  )
