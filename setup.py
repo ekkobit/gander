@@ -41,7 +41,7 @@ setuptools.setup(name='gander',
                  long_description_content_type="text/x-rst",
                  classifiers=[
                         'Development Status :: 3 - Alpha',
-                        'License :: OSI Approved :: GPL-3.0-or-later',
+                        'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
                         'Programming Language :: Python :: 3',
                         'Topic :: Office/Business :: Financial :: Investment',
                         ],
