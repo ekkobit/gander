@@ -1,14 +1,36 @@
+"""Setup for project Gander.
+
+Copyright (C) 2020  Ekkobit AS
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Questions may be directed to resonate@ekkobit.com
+"""
+
 import setuptools
 from gander import __version__, __authors__, __email__
 
 
 def readme():
+    """Open and read README.rst into memory."""
     with open('README.rst') as f:
         return f.read()
 
 
 def license():
-    with open('LICENSE') as f:
+    """Open and read COPYING into memory."""
+    with open('COPYING') as f:
         return f.read()
 
 
@@ -19,7 +41,7 @@ setuptools.setup(name='gander',
                  long_description_content_type="text/x-rst",
                  classifiers=[
                         'Development Status :: 3 - Alpha',
-                        'License :: OSI Approved :: MIT License',
+                        'License :: OSI Approved :: GPL-3.0-or-later',
                         'Programming Language :: Python :: 3',
                         'Topic :: Office/Business :: Financial :: Investment',
                         ],
