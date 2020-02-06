@@ -45,7 +45,7 @@ def candles(df, ax, cwidth=0.6, lwidth=1, columns=None, colors=None,
      First color in list is for when closing price is higher than opening
      price. Second color is for when closing price is lower than opening price.
      Default is ["green", red]
-    :param impulse: Impulse system data, either "red", "green" or "blue"
+    :param impulse: Impulse system data
     :type df: ``pandas.DataFrame()`` [``float``]
     :type ax: ``matplotlib.axes.Axes``
     :type cwidth: ``float`` or ``int``

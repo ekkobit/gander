@@ -78,21 +78,34 @@ def calc_ema(df, column, new_column_name, window=10, custom_a=None):
     return df
 
 
-def calc_macd(df, ema_short, ema_long, window=9):
+def calc_macd(df, ema_short, ema_long, names=None, window=9):
     """Create MACD fast-, signal line and Histogram from short and long EMAs.
 
     :param df: Input data frame
     :param ema_short: Short term EMA data
     :param ema_long: Long term EMA data
+    :param names: dictionary of names for mac-d columns.
+     Default is {"fast": "fast", "signal": "signal", "macd-h": "macd-h"}
+    :param window: Length of window
     :type df: ``pandas.DataFrame()`` [``float``]
     :type ema_short: ``pandas.DataFrame()`` [``float``]
     :type ema_long: ``pandas.DataFrame()`` [``float``]
     :returns: Input dataframe with added macd columns
     :rtype: ``pandas.DataFrame()`` [``float``]
     """
-    df['fast'] = ema_short - ema_long
-    df = calc_ema(df, df["fast"], "signal", window=window)
-    df['macd-h'] = df['fast'] - df['signal']
+    if names is not None:
+        col_names = names
+    else:
+        col_names = {"fast": "fast",
+                     "signal": "signal",
+                     "macd-h": "macd-h"}
+
+    df[col_names["fast"]] = ema_short - ema_long
+    df = calc_ema(df,
+                  df[col_names["fast"]],
+                  col_names["signal"],
+                  window=window)
+    df[col_names['macd-h']] = df[col_names['fast']] - df[col_names['signal']]
     return df
 
 
